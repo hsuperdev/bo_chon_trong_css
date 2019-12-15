@@ -1,0 +1,19 @@
+h1 {
+  color: red;
+}
+
+p {
+  color: orange;
+}
+
+#text {
+  font-size: 25px;
+}
+
+.demo {
+  font-size: 30px;
+}
+
+h1, p, #text, .demo {
+  background: #f1f1f1;
+}
